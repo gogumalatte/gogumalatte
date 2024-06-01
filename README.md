@@ -3,6 +3,7 @@
  ### 💻 Activities
 * 제10회 대한민국 SW융합 해커톤 대회 본선 진출
 * 경북대 멋쟁이사자처럼 12기 FE (2024.03 ~ )
+* 2024 GLOW HACKATHON (2024.06.01) 
 
 ### 🛠 Languages and Tools
 
