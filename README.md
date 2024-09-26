@@ -15,8 +15,8 @@
 
 # 📋 GitHub Stats
 <div>
-    <a href="https://github.com/gunGeongun"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=gunGeongun&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff" alt="Geon's github stats" /></a>
-<!--     <a href="https://github.com/gunGeongun"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunGeongun&layout=compact&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff&hide=javascript,EJS,css,html" /></a> -->
+    <a href="https://github.com/gogumalatte"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=gogumalatte&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff" alt="Kiyeong's github stats" /></a>
+<!--     <a href="https://github.com/gogumalatte"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gogumalatte&layout=compact&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff&hide=javascript,EJS,css,html" /></a> -->
 </div>
 
 
