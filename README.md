@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Hi%20there%20Welcome%20to%20Kiyeong's%20GitHub%20👋&animation=twinkling&fontSize=32&fontAlignY=50&fontAlign=50&height=150" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Hi%20there,%20Welcome%20to%20Kiyeong's%20GitHub%20👋&animation=twinkling&fontSize=32&fontAlignY=50&fontAlign=50&height=150" />
 
 # 💻 EXP
 | Date | Name |
