@@ -33,4 +33,5 @@
 # 📫 Contact
 [![blog](https://img.shields.io/badge/DEV_BLOG_개발블로그-151515?style=for-the-badge&logo=tistory&logoColor=fff)](https://gogumalatte.tistory.com/)
 
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
 </div>
