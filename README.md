@@ -3,15 +3,15 @@
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Hi%20there,%20Welcome%20to%20Kiyeong's%20GitHub%20👋&animation=twinkling&fontSize=26&fontAlignY=50&fontAlign=50&&height=110" />
 
 # 💻 EXP
-| Date | Name |
-|----|----|
-| 2024.09 |2024 대구를 빛내는 해커톤 대상|
+| 날짜 | 이름 | 비고 |
+|----|----|----|
+| 2024.09 |2024 대구를 빛내는 해커톤|**대상**|
 | 2024.09~ |Google Developer Groups KNU 4기 Frontend Member|
 | 2024.08 |멋쟁이사자처럼 12기 중앙해커톤 참여|
-| 2024.06 |2024 KNU GLOW HACKATHON 본선 진출|
+| 2024.06 |2024 KNU GLOW HACKATHON|본선|
 | 2024.05 |경북대 멋쟁이사자처럼 아이디어톤 참여|
 | 2024.03~ |경북대 멋쟁이사자처럼 12기 Frontend|
-| 2023.08 |제10회 대한민국 SW융합 해커톤 대회 본선 진출|
+| 2023.08 |제10회 대한민국 SW융합 해커톤 대회|본선|
 
 
 # 📋 GitHub Stats
