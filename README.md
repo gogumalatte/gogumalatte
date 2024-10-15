@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Hi%20there,%20Welcome%20to%20Kiyeong's%20GitHub%20👋&animation=twinkling&fontSize=26&fontAlignY=50&fontAlign=50&&height=110" />
+<img src="https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=150&section=header&text=Hi%20there!&fontSize=70&fontColor=1f2329" />
 
 # 💻 EXP
 | 날짜 | 이름 | 비고 |
