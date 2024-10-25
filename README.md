@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=150&section=header&text=Hi%20there!&fontSize=70&fontColor=1f2329" /> -->
-![header](https://capsule-render.vercel.app/api?type=soft&color=EDEEF0&height=120&section=header&text=👋%20Hi!%20there,%20I'm%20Kiyeong%20Choi%20&fontSize=40&animation=twinkling&fontColor=909FA6&fontAlignY=52)
+![header](https://capsule-render.vercel.app/api?type=soft&color=EDEEF0&height=120&section=header&text=👋%20Hi!%20there,%20I'm%20Kiyeong%20Choi%20&fontSize=40&animation=twinkling&fontColor=5F5F5F&fontAlignY=52)
 
 # 💻 EXP
 | 날짜 | 이름 | 비고 |
