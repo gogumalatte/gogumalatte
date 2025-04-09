@@ -20,7 +20,7 @@
 <div>
     <a href="https://github.com/gogumalatte"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=gogumalatte&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,838BB2,CACFE3,C7D6DB&title_color=fff&text_color=fff" alt="Kiyeong's github stats" /></a>
     <br>
-    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgogumalatte&count_bg=%23C2C2C2&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=github&edge_flat=false"/></a>
+<!--     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgogumalatte&count_bg=%23C2C2C2&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=github&edge_flat=false"/></a> -->
     
 <!--     <a href="https://github.com/gogumalatte"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gogumalatte&layout=compact&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff&hide=javascript,EJS,css,html" /></a> -->
 </div>
