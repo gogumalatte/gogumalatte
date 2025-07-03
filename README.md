@@ -72,7 +72,7 @@
 
 * **카카오테크캠퍼스 3기 Backend** (2025.04 ~ 현재)
 * **Google Developer Groups on Campus KNU 4기 Frontend Member** (2024.09 ~ 2025.07)
-* **멋쟁이사자처럼 대학 12기 Frontend** (2024.03 ~ 2024.12)
+* **멋쟁이사자처럼 경북대 12기 Frontend** (2024.03 ~ 2024.12)
 
 ---
 
