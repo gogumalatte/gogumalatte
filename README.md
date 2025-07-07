@@ -64,7 +64,7 @@
 | **2024.06**| **2024 KNU GLOW HACKATHON** | 본선                |
 | **2023.08**| **제10회 대한민국 SW융합 해커톤** | 본선                |
 <br/>
-<p><strong>GPA(Grade Point Average): 4.03 / 4.5</strong></p>
+<!-- <p><strong>GPA(Grade Point Average): 3.74/4.3 </strong></p> -->
 </div>
 
 ---
