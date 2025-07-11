@@ -53,7 +53,7 @@
 
 | 취득일      | 내용                               | 결과/자격           |
 | :--------: | :-------------------------------- | :-----------------: |
-| **2025.07**| **빅데이터분석기사** | 자격증 취득 |
+| **2025.07**| **빅데이터분석기사** | [자격증 취득](https://github.com/user-attachments/files/21173191/default.pdf) |
 | **2025.06**| **대경권 프로그래밍 경진대회** | [**대상**](https://github.com/user-attachments/files/21088648/default.pdf) |
 | **2025.06**| **정보처리기사** | [자격증 취득](https://github.com/user-attachments/files/21031768/default.pdf) |
 | **2025.06**| **SQLD (SQL 개발자)** | [자격증 취득](https://github.com/user-attachments/files/21031737/sqld.pdf) |
