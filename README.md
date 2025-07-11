@@ -61,8 +61,7 @@
 | **2024.12**| **산학협력프로젝트 경진대회** | [**우수상**](https://github.com/user-attachments/files/21088651/default.pdf) |
 | **2024.11**| **GDG on Campus KNU 비전 챌린지톤** | [**최우수상**](https://github.com/user-attachments/files/21088650/default.pdf) |
 | **2024.09**| **2024 대구를 빛내는 해커톤** | [**대상**](https://github.com/user-attachments/files/21088649/default.pdf) |
-| **2024.06**| **2024 KNU GLOW HACKATHON** | 본선                |
-| **2023.08**| **제10회 대한민국 SW융합 해커톤** | 본선                |
+
 <br/>
 <!-- <p><strong>GPA(Grade Point Average): 3.74/4.3 </strong></p> -->
 </div>
