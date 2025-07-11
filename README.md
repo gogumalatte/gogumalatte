@@ -86,6 +86,9 @@
 <h2 align="center"> 🏅 Solved.ac </h2>
 <div align="center">
     
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rldud1237)](https://solved.ac/rldud1237/)
+![rldud1237's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=rldud1237)
 
 </div>
+
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
