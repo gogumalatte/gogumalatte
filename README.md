@@ -63,7 +63,7 @@
 | **2024.09**| **2024 대구를 빛내는 해커톤** | [**대상**](https://github.com/user-attachments/files/21088649/default.pdf) |
 
 <br/>
-<!-- <p><strong>GPA(Grade Point Average): 3.74/4.3 </strong></p> -->
+<p><strong>GPA(Grade Point Average): 3.72/4.3 </strong></p>
 </div>
 
 ---
