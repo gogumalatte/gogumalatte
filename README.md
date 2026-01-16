@@ -46,6 +46,8 @@
 
 | 취득일      | 내용                               | 결과/자격           |
 | :--------: | :-------------------------------- | :-----------------: |
+| **2025.12**| **2025 I&T 융합 프로젝트** | **우수상** |
+| **2025.12**| **2025학년도 하반기 창업 성과 경진대회** | **우수상** |
 | **2025.11**| **창업아이템 경진대회** | **우수상** |
 | **2025.07**| **빅데이터분석기사** | [자격증 취득](https://github.com/user-attachments/files/21173191/default.pdf) |
 | **2025.06**| **대경권 프로그래밍 경진대회** | [**대상**](https://github.com/user-attachments/files/21088648/default.pdf) |
@@ -57,7 +59,7 @@
 | **2024.09**| **2024 대구를 빛내는 해커톤** | [**대상**](https://github.com/user-attachments/files/21088649/default.pdf) |
 
 <br/>
-<p><strong>GPA(Grade Point Average): 3.72/4.3 </strong></p>
+<p><strong>GPA(Grade Point Average): 3.99/4.5 </strong></p>
 </div>
 
 ---
