@@ -11,25 +11,6 @@
   <a href="https://www.linkedin.com/in/kiyeong-choi-21567530a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-<!-- 
-
-<h2 align="center">💻 Projects</h2>
-<div align="left">
-
-### 카카오테크캠퍼스 3기 팀프로젝트 [파도] (진행중)
-* **기간:** 2025.08 ~
-* **역할:** **Backend Developer**
-* **내용:** 대용량 트래픽 환경을 가정한 서비스 개발 프로젝트. 클린 아키텍처, 테스트 주도 개발(TDD), MSA 구조 등 안정적이고 확장성 있는 서버 구축 기술을 집중적으로 학습 및 적용하고 있습니다.
-
-### 산합협력프로젝트 [이더리움 호가 예측 프로그램]
-* **기간:** 2025.09 ~
-* **역할:** Backend Developer
-* **내용:** 자동 매매 서비스 개발, 모의 매매 서비스 개발
-
-</div>
-
--->
-
 ---
 
 <h2 align="center">🏃‍♂️ Activities</h2>
@@ -77,7 +58,7 @@
 
 <br/>
 <p><strong>GPA(Grade Point Average): 3.99/4.5 </strong></p>
-<p><strong>어학: TOEIC SPEAKING IH </strong></p>
+<p><strong>어학: TOEIC SPEAKING IH(140점) </strong></p>
 </div>
 
 ---
