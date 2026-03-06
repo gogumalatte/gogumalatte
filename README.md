@@ -41,6 +41,23 @@
 
 ---
 
+<div align="center"><h2>💻 Project</h2></div>
+<div align="center">
+
+| 기간      | 내용                               | 역할              |
+| :--------: | :-------------------------------- | :-----------------: |
+| **2025.09 ~ 2025.12**| **[지도 기반 커뮤니티 앱 몽글 개발](https://github.com/map-community)** | 아이디어 기획, 백엔드 개발, 앱스토어 배포 |
+| **2025.08 ~ 2025.11**| **[카카오테크 캠퍼스 팀프로젝트 스터디 통합 웹서비스 파도 개발](https://github.com/kakao-tech-campus-3rd-step3/Team9_BE)** | 백엔드 개발, DevOps |
+| **2025.02 ~ 2025.05**| **[GDGoc 솔루션 챌린지 프로젝트 폐쇄형 AI 일기 웹서비스 토닥 개발](https://github.com/Dockerel/4th-SC-TEAM1-BE)** | 아이디어 기획, 프론트엔드 개발, UI/UX 디자인 |
+| **2024.11**| **[비전챌린지톤 체험형 해양 생물 교육 웹서비스 물멍 개발](https://github.com/team-GDGline)** | 프론트엔드 개발, AWS 활용 웹 배포 |
+| **2024.09 ~ 2024.12**| **[RAG 기반 학사 정보 챗봇 개발 - 산학협력프로젝트 with 데이터스트림즈](https://github.com/datastreams-knu)** | 아이디어 기획, 프론트엔드 개발 |
+
+<br/>
+</div>
+
+
+---
+
 <h2 align="center">🏆 Awards & Certifications</h2>
 <div align="center">
 
@@ -60,6 +77,7 @@
 
 <br/>
 <p><strong>GPA(Grade Point Average): 3.99/4.5 </strong></p>
+<p><strong>어학: TOEIC SPEAKING IH </strong></p>
 </div>
 
 ---
