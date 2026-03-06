@@ -15,6 +15,7 @@
 
 <h2 align="center">🏃‍♂️ Activities</h2>
 
+* **Samsung SW·AI academy For Youth 15기** (2026.01 ~ )
 * **카카오테크캠퍼스 3기 Backend** (2025.04 ~ 2025.11)
 * **시스템프로그래밍 Tutor** (2025.03 ~ 2025.6, 2025.9 ~ 2025.12)
 * **Google Developer Groups on Campus KNU 4기 Frontend Member** (2024.09 ~ 2025.07)
